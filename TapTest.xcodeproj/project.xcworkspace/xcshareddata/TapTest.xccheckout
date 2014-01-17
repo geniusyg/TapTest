@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>137F4352-F121-4FF1-956D-7A500FFE1D3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TapTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1216E23-E7FA-4C53-84F8-A198C27FCFB4</key>
+		<string>https://github.com/geniusyg/TapTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TapTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1216E23-E7FA-4C53-84F8-A198C27FCFB4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/geniusyg/TapTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1216E23-E7FA-4C53-84F8-A198C27FCFB4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1216E23-E7FA-4C53-84F8-A198C27FCFB4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TapTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
